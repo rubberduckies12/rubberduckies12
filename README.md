@@ -15,6 +15,10 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=rubberduckies12&show_icons=true&theme=tokyonight&hide_border=true" alt="Tommy's GitHub stats"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberduckies12&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
 
 ---
 
