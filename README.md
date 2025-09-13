@@ -1,23 +1,23 @@
-# <p align="center">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tommy+Rowe+%F0%9F%91%8B;Engineer+%7C+Founder+%7C+Full+Stack+Dev;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Engineer%20@%20Airbus-003366?style=for-the-badge&logo=airbus&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Founder-RCKTS%20%7C%20MyPropertyPal%20%7C%20RCKTS%20Tax%20%7C%20StudySpot-36BCF7?style=for-the-badge"/>
-	<img src="https://img.shields.io/badge/BEng%20Electronics-Solent%20Southampton%20Uni-FF5959?style=for-the-badge"/>
-	<img src="https://img.shields.io/badge/Full%20Stack%20Dev-JS%20%7C%20TS%20%7C%20React%20%7C%20SQL%20%7C%20C%23%20%7C%20C%2B%2B-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Engineer%20@%20Airbus-003366?style=for-the-badge&logo=airbus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Founder-RCKTS%20%7C%20MyPropertyPal%20%7C%20RCKTS%20Tax%20%7C%20StudySpot-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BEng%20Electronics-Solent%20Southampton%20Uni-FF5959?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-JS%20%7C%20TS%20%7C%20React%20%7C%20SQL%20%7C%20C%23%20%7C%20C%2B%2B-FFD700?style=for-the-badge"/>
 </p>
 
 <hr/>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=rubberduckies12&show_icons=true&theme=tokyonight&hide_border=true" alt="Tommy's GitHub stats"/>
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubberduckies12&show_icons=true&theme=tokyonight&hide_border=true" alt="Tommy's GitHub stats"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberduckies12&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
+
+
 
 
 ---
