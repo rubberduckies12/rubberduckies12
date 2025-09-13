@@ -22,7 +22,7 @@
 <div align="center">
 	<h1>Hi, I'm Tommy Rowe 👋</h1>
 	<b>Apprentice Engineer @ Airbus Defence and Space</b><br/>
-	<b>Founder: RCKTS, MyPropertyPal, RCKTS Tax, StudySpot</b><br/>
+	<b>Founder: RCKTS, MyPropertyPal, RCKTS Tax, StudySpot, MIDAS</b><br/>
 	<b>BEng (Hons) Electronics @ Solent Southampton University</b><br/>
 	<b>Full Stack Developer | JS, TS, React, SQL, C#, C++</b>
 </div>
